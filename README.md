@@ -1,1 +1,1 @@
-![Örnek Resim](./src/images/example1.png)
+![Example](./src/images/example1.png);
